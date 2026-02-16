@@ -8,12 +8,12 @@
 
 ## Résultats (SQL)
 ### 3.a Chiffre d'affaires total
-- CA total: XXX
+- CA total: 44825e
 
 ### 3.b Ventes par produit
-- Top produit (CA): Produit X – XXX
-- Top produit (volume): Produit Y – XXX
+- Top produit (CA): Produit A – 17500e
+- Top produit (volume): Produit A – 51.5%
 
 ### 3.c Ventes par région
-- Top région (CA): Région X – XXX
-- Top région (volume): Région Y – XXX
+- Top région (CA): Région Sud – 24100e
+- Top région (volume): Région Sud – 52.8%
