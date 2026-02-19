@@ -8,12 +8,21 @@
 
 ## Résultats (SQL)
 ### 3.a Chiffre d'affaires total
-- CA total: 44825e
+- CA total: 44825
 
 ### 3.b Ventes par produit
-- Top produit (CA): Produit A – 17500e
-- Top produit (volume): Produit A – 51.5%
+- CA de Produit A – 17500
+- Volume total Produit A - 1750
+- Percentage du volume Produit A – 51.78%
+- CA Produit B – 15825
+- Volume total Produit B - 1055
+- Percentage du volume Produit B – 31.21%
+- CA Produit C – 11500
+- Volume total Produit C - 575
+- Percentage du volume Produit C – 17.01%
 
 ### 3.c Ventes par région
-- Top région (CA): Région Sud – 24100e
-- Top région (volume): Région Sud – 52.8%
+- (CA): Région Sud – 24100
+- (volume): Région Sud – 52.51%
+- (CA): Région Sud – 20725
+- (volume): Région Sud – 47.49%
